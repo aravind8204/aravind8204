@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aravind8204
--    I'm a python developer
+-    I'm a Full stack Developer
 - 👀 I’m interested in Programming,full stack development,cyber security
 - 🌱 I’m currently learning MERN Stack and AI
 - 💞️ I’m looking to collaborate on ...
